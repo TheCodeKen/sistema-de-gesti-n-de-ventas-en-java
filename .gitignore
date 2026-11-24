@@ -1,0 +1,19 @@
+﻿# Archivos compilados de Java
+bin/
+*.class
+
+# Archivos internos de Eclipse
+.metadata/
+.recommenders/
+
+# Archivos temporales
+*.log
+*.tmp
+*.lock
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Credenciales
+.env

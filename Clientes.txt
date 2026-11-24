@@ -1,0 +1,3 @@
+1004;Mary;Benavides;Av. Ejercito;98753621;78451263
+1005;Alexis;Samaniego;Jr. Ugarte 455;987123654;78654321
+1006;Juancho;Estrada;Av. Brasil L3;976145639;76543821
